@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-      <h2>Remali Das <br /><br /> Personal Website - 1st Learning Vue App</h2><br/>
+      <h2>Remali Das <br /><br /> 1st Learning Vue App</h2><br/>
     <div class="name">
       <div class="letter">
       <img alt="Vue logo" src="../assets/logo.png" />
